@@ -2,7 +2,7 @@ import gradio as gr
 import requests
 import os
 # Backend URL
-API_URL =  "https://ai-product-description-backend-1.onrender.com/generate"
+API_URL =  "https://prodescription-backend.onrender.com/generate"
 # Function to call backend
 def generate_description(product_name):
 
